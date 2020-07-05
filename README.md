@@ -17,6 +17,7 @@
 - VGA:
   - Intel HD Graphics 4400(Onboard)
   - PowerColor AMD RX 550 640SP 2GB
+- Audio Codec : Realtek ALC1150
 - Monitors:
   - Samsung SA300 18,4 Inch (1366x768)
 - Power: VS Series™ VS550 — 80 PLUS® (550 watt)
@@ -32,7 +33,13 @@
  - RX 550 AMD GPU
  - Ethernet + Wireless + Bluetooth (No handoff because of non-internal)
  - USB 2.0/3.0 Ports
- - Sounds
+ - Shutdown & Restart
+ - DRM
+    - iTunes Video (v1)
+    - Amazon Prime (v2)
+    - Netflix (v3)
+    - Apple TV+ (v4)
+ - Sounds (Microphone (boosted), Rear Jack, Output. Native AppleHDA)
  - Desktop Power Management
 
 # What isn't works (yet)
