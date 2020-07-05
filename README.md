@@ -1,4 +1,4 @@
-# MSIntosh with OpenCore Bootloader- Catalina (10.15.5)
+# MSIntosh with OpenCore Bootloader - Catalina (10.15.5)
 ![SystemInfo](https://raw.githubusercontent.com/kpratama24/MSIntosh/master/Screenshot/Catalina/Overview.png)
 
 # Hardware
@@ -20,7 +20,7 @@
 - Audio Codec : Realtek ALC1150
 - Monitors:
   - Samsung SA300 18,4 Inch (1366x768)
-- Power: VS Series™ VS550 — 80 PLUS® (550 watt)
+- Power: Corsair VS Series™ VS550 — 80 PLUS® (550 watt)
 - Mouse: Digital Alliance Luna Gaming Mouse
 - Keyboard: Logitech K200 Keyboard
   
