@@ -34,6 +34,7 @@
  - Ethernet + Wireless + Bluetooth (No handoff because of non-internal)
  - USB 2.0/3.0 Ports
  - Shutdown & Restart
+ - USB (without 15 Port Limit Patch)
  - DRM
     - iTunes Video (v1)
     - Amazon Prime (v2)
@@ -45,5 +46,4 @@
 # What isn't works (yet)
  - Sleep / Wake (MSI firmware bug. Just disable it via built-in Apple System Preferences)
  - Bootstrap.efi (DON'T EVER USE IT. Otherwise, you will brick the boot sequence. Wait for OpenCore team to fix the issue)
- - USB Power (Too lazy to follow the guide)
 
