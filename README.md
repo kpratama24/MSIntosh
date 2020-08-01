@@ -28,14 +28,16 @@
  Updating...
 # BIOS
  - Restore defaults
+ - Set Boot Mode to UEFI
 
 # What works
+ - iMessage, Facetime, App Store
  - RX 550 AMD GPU
  - Ethernet + Wireless + Bluetooth (No handoff because of non-internal)
  - USB 2.0/3.0 Ports
  - Shutdown & Restart
  - USB (without 15 Port Limit Patch)
- - DRM
+ - DRM (`shikigva approach`)
     - iTunes Video (v1)
     - Amazon Prime (v2)
     - Netflix (v3)
