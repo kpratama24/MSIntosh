@@ -1,4 +1,5 @@
-# MSIntosh with OpenCore Bootloader - Catalina (10.15.5)
+# MSIntosh with OpenCore Bootloader - Catalina (10.15.6)
+## OpenCore Version : 0.6.0
 ![SystemInfo](https://raw.githubusercontent.com/kpratama24/MSIntosh/master/Screenshot/Catalina/Overview.png)
 
 # Hardware
