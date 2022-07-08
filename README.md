@@ -1,14 +1,14 @@
-# MSIntosh with OpenCore Bootloader - Catalina (10.15.6)
-## OpenCore Version : 0.6.1
-![SystemInfo](https://raw.githubusercontent.com/kpratama24/MSIntosh/master/Screenshot/Catalina/Overview.png)
+# MSIntosh with OpenCore Bootloader - Monterey (12.4)
+## OpenCore Version : 0.7.9
+![SystemInfo](https://raw.githubusercontent.com/kpratama24/MSIntosh/master/Screenshot/Monterey/Overview.png)
 
 # Hardware
 
-- CPU: Intel(R) CPU Core i3 4150
+- CPU: Intel(R) CPU Core i5-4570
 - Mainboard: MSI B85-G43 GAMING
 - RAM: Corsair Vengeance DDR3 1666Mhz (4GBx2) 
 - SSD:
-    - KINGSTON SA400S37/120GB
+    - V-GEN 03SM22AR/512GB
     - WDC WDS120G2G0A/120GB
 - HDD:
     - Seagate ST1000XXX/1TB
@@ -33,7 +33,8 @@
 
 # What works
  - iMessage, Facetime, App Store
- - RX 550 AMD GPU
+ - RX 550 640SP AMD GPU
+ - NVRAM (Native)
  - Ethernet + Wireless + Bluetooth (No handoff because of non-internal)
  - USB 2.0/3.0 Ports
  - Shutdown & Restart
@@ -44,9 +45,9 @@
     - Netflix (v3)
     - Apple TV+ (v4)
  - Sounds (Microphone (boosted), Rear Jack, Output. Native AppleHDA)
+ - Dual-boot via OpenCore boot menu (Windows 10 + macOS Monterey)
  - Desktop Power Management
 
 # What isn't works (yet)
  - Sleep (MSI firmware bug. Just disable it via built-in Apple System Preferences)
- - Bootstrap.efi (DON'T EVER USE IT. Otherwise, you will brick the boot sequence. Wait for OpenCore team to fix the issue)
 
